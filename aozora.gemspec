@@ -6,7 +6,7 @@ require 'aozora/version'
 Gem::Specification.new do |spec|
   spec.name          = "aozora"
   spec.version       = Aozora::VERSION
-  spec.authors       = ["tkr"]
+  spec.authors       = ["Tsukuru Tanimichi"]
   spec.email         = ["tkr.tnmc@gmail.com"]
   spec.description   = %q{aozoraはダミーテキストを生成するライブラリです。}
   spec.summary       = %q{Japanese lorem ipsum generator}
